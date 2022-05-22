@@ -1,4 +1,4 @@
-# Primneiro-Repositorio
+# Primeiro-Repositorio
 
 ## Desafio DIO
 
